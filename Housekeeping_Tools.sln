@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backup_HouseKeeping_Tools", "WindowsFormsApp1\Backup_HouseKeeping_Tools.csproj", "{08C833E5-A036-4FD0-A64E-4BBAD931EDF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C833E5-A036-4FD0-A64E-4BBAD931EDF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C833E5-A036-4FD0-A64E-4BBAD931EDF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C833E5-A036-4FD0-A64E-4BBAD931EDF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C833E5-A036-4FD0-A64E-4BBAD931EDF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C32F46D-7B97-4262-8777-527FAB1A2C97}
+	EndGlobalSection
+EndGlobal
